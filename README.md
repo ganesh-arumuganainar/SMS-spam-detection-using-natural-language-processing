@@ -15,4 +15,4 @@ The classification report is as follows:
     weighted avg    0.99      0.99      0.99      1115
 
 
-**Future work:** The trained model is already saved for future use. Future work includes creating a basic web application with Python Flask (HTML and CSS for frontend) that takes in an input text and outputs the model's prediction if the text is spam or ham. 
+**Future work:** The trained model is already saved for future use. Future work includes creating a basic web application with Python Flask (HTML and CSS for frontend) that takes in an input text and outputs the model's prediction if the text is spam or ham. The application is to be deployed on any of the cloud platforms like GCP or Heroku. 
